@@ -1,5 +1,5 @@
 <?
-echo "¿©±â´Â PHP ÇÁ·Î±×·¥ ÀÔ´Ï´Ù";
+echo "ì—¬ê¸°ëŠ” PHP í”„ë¡œê·¸ëž¨ ìž…ë‹ˆë‹¤";
 echo "asfsdfa"
 echo "<br>";
 echo phpinfo();
